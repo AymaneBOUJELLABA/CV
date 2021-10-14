@@ -1,0 +1,31 @@
+html, button, input, select, textarea {
+    color: #444;
+}
+
+html {
+    background-color: #777;
+    font-size: 1em;
+    line-height: 1.4;
+    font-family: 'Questrial', sans-serif;
+}
+
+h2 {
+    font-family: 'Domine', serif;
+}
+
+#wrapper {
+    max-width: 900px;
+    min-width: 320px;
+    margin: auto;
+}
+
+header {
+    background-color : rgb(224, 224, 224);/*altérnative pour le blanc*/
+    border-radius: 3px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+header > img {
+    border: 1px solid #ccc;
+    float: right;
+}

@@ -1,0 +1,30 @@
+@media only screen and (max-width: 740px)
+{
+    #wrapper
+    {
+        width: 100%;
+    }
+}
+@media only screen and (max-width: 570px)
+{
+    #wrapper
+    {
+        width: 100%;
+    }
+}
+@media only screen and (max-width: 480px)
+{
+    #wrapper
+    {
+        font-size:75%;
+        width: 100%;
+    }
+
+    header > img
+    {
+        float: none;
+        width: 50%;
+        height: 50%;
+    }
+    
+}
